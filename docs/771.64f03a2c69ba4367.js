@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkproway_computers=self.webpackChunkproway_computers||[]).push([[771],{4771:(E,a,o)=>{o.r(a),o.d(a,{CarrinhoModule:()=>t});var n=o(6895),_=o(2298),r=o(433),s=o(1571);class t{static#o=this.\u0275fac=function(u){return new(u||t)};static#t=this.\u0275mod=s.oAB({type:t});static#a=this.\u0275inj=s.cJS({imports:[n.ez,_.F,r.u5]})}}}]);
